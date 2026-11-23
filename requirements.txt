@@ -3,6 +3,6 @@ pandas
 numpy
 plotly
 joblib
-openpyxl  # lecture / écriture des fichiers .xlsx
-xlrd      # lecture des anciens fichiers .xls
-scikit-learn==1.6.1  # même version que celle utilisée sur Colab pour sauvegarder les modèles
+openpyxl
+xlrd
+scikit-learn>=1.6.1
